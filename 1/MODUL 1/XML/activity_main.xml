@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#0D0B14"
+    android:padding="20dp"
+    android:gravity="center_horizontal">
+
+    <!-- SPACER ATAS -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <!-- DADU -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="20dp"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/dice1"
+            android:layout_width="220dp"
+            android:layout_height="220dp"
+            android:contentDescription="@string/dice1"
+            android:src="@drawable/dice_1" />
+
+        <ImageView
+            android:id="@+id/dice2"
+            android:layout_width="220dp"
+            android:layout_height="220dp"
+            android:contentDescription="@string/dice2"
+            android:src="@drawable/dice_1" />
+    </LinearLayout>
+
+    <!-- BUTTON -->
+    <Button
+        android:id="@+id/btnRoll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/roll"
+        android:textColor="#000000"
+        android:textSize="18sp"/>
+
+    <!-- SPACER BAWAH -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <!-- HASIL -->
+    <TextView
+        android:id="@+id/tvResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:padding="8dp"
+        android:text="@string/klik_roll"
+        android:textColor="#000000"
+        android:textSize="20sp"/>
+
+</LinearLayout>
