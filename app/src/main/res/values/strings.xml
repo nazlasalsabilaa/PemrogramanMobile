@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiceRollXML</string>
+
+    <string name="roll">Roll</string>
+    <string name="klik_roll">Klik Roll</string>
+
+    <string name="dice1">Dice 1</string>
+    <string name="dice2">Dice 2</string>
+</resources>
