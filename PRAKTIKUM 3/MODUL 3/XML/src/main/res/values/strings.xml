@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Global Icons</string>
+
+    <string name="label_name">Nama: </string>
+    <string name="label_location">Lokasi: </string>
+
+    <string name="btn_detail">Detail</string>
+    <string name="btn_imdb">IMDB</string>
+
+    <string name="desc_eiffel">
+        Menara Eiffel (La tour Eiffel) adalah ikon besi setinggi 300 meter yang berdiri megah di Paris. Sejak 1889, menjadi salah satu destinasi paling terkenal di dunia.
+    </string>
+
+    <string name="desc_kakbah">
+        Ka'bah di Masjidil Haram adalah pusat kiblat umat Muslim di seluruh dunia dan menjadi tempat utama ibadah Haji dan Umrah.
+    </string>
+
+    <string name="desc_pisa">
+        Menara Pisa adalah menara lonceng di Italia yang terkenal karena kemiringannya akibat kondisi tanah.
+    </string>
+
+    <string name="desc_tembok_besar_china">
+        Tembok Besar China adalah struktur pertahanan terpanjang di dunia yang membentang ribuan kilometer.
+    </string>
+
+    <string name="desc_colosseum">
+        Colosseum adalah arena besar di Roma yang digunakan untuk pertunjukan gladiator pada masa Romawi kuno.
+    </string>
+
+    <string name="desc_taj_mahal">
+        Taj Mahal adalah mausoleum di India yang dibangun sebagai simbol cinta abadi oleh Kaisar Shah Jahan.
+    </string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Global Icons</string>
+
+    <string name="label_name">Name: </string>
+    <string name="label_location">Location: </string>
+
+    <string name="btn_detail">Detail</string>
+    <string name="btn_imdb">IMDB</string>
+
+    <string name="desc_eiffel">
+        The Eiffel Tower is a 300-meter landmark in Paris and one of the most famous structures in the world.
+    </string>
+
+    <string name="desc_kakbah">
+        The Kaaba is the holiest site in Islam located in Mecca, serving as the direction of prayer for Muslims.
+    </string>
+
+    <string name="desc_pisa">
+        The Leaning Tower of Pisa is a famous tilted bell tower in Italy.
+    </string>
+
+    <string name="desc_tembok_besar_china">
+        The Great Wall of China is a massive ancient defensive structure stretching across northern China.
+    </string>
+
+    <string name="desc_colosseum">
+        The Colosseum is an ancient Roman amphitheater used for gladiator battles.
+    </string>
+
+    <string name="desc_taj_mahal">
+        The Taj Mahal is a white marble mausoleum in India symbolizing eternal love.
+    </string>
+</resources>
