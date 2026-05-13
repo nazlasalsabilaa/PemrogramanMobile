@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.nazlasalsabila.global_icons.HomeFragment"
+        android:label="Home XML" />
+
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.nazlasalsabila.global_icons.DetailFragment"
+        android:label="Detail" />
+
+    <fragment
+        android:id="@+id/languageFragment"
+        android:name="com.nazlasalsabila.global_icons.LanguageFragment"
+        android:label="Language" />
+
+    <fragment
+        android:id="@+id/composeFragment"
+        android:name="com.nazlasalsabila.global_icons.ComposeFragment"
+        android:label="Home Compose" />
+
+</navigation>

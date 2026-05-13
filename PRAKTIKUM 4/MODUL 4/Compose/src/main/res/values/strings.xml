@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Global Icons</string>
+
+    <string name="label_name">Nama: </string>
+    <string name="label_location">Lokasi: </string>
+
+    <string name="btn_detail">Detail</string>
+    <string name="btn_imdb">IMDB</string>
+
+    <string name="desc_eiffel">
+        Menara Eiffel atau La Tour Eiffel adalah menara besi setinggi sekitar 300 meter yang berdiri megah di kota Paris, Prancis. Bangunan ini dibangun pada tahun 1889 sebagai pintu masuk Pameran Dunia dan dirancang oleh insinyur Gustave Eiffel. Hingga saat ini, Menara Eiffel menjadi salah satu ikon paling terkenal di dunia serta tujuan wisata favorit jutaan pengunjung setiap tahunnya.
+    </string>
+
+    <string name="desc_kakbah">
+        Kakbah yang berada di tengah Masjidil Haram, Mekkah, Arab Saudi, merupakan bangunan suci yang menjadi pusat kiblat umat Islam di seluruh dunia. Setiap hari, jutaan Muslim menghadap ke arah Kakbah saat melaksanakan salat. Tempat ini juga menjadi tujuan utama ibadah Haji dan Umrah serta memiliki nilai sejarah dan spiritual yang sangat besar bagi umat Islam.
+    </string>
+
+    <string name="desc_pisa">
+        Menara Pisa atau Leaning Tower of Pisa adalah menara lonceng yang terletak di kota Pisa, Italia. Bangunan ini terkenal di seluruh dunia karena posisinya yang miring akibat kondisi tanah yang lunak sejak masa pembangunan. Meskipun demikian, Menara Pisa tetap berdiri kokoh dan menjadi salah satu destinasi wisata bersejarah yang paling populer di Italia.
+    </string>
+
+    <string name="desc_tembok_besar_china">
+        Tembok Besar China adalah bangunan pertahanan kuno yang membentang sangat panjang melintasi wilayah utara Tiongkok. Struktur ini dibangun secara bertahap oleh beberapa dinasti untuk melindungi wilayah kerajaan dari serangan musuh. Kini, Tembok Besar China dikenal sebagai salah satu keajaiban dunia dan warisan budaya yang sangat berharga.
+    </string>
+
+    <string name="desc_colosseum">
+        Colosseum adalah amfiteater besar peninggalan Romawi kuno yang terletak di kota Roma, Italia. Bangunan megah ini dahulu digunakan sebagai tempat pertunjukan gladiator, drama publik, dan berbagai hiburan masyarakat Romawi. Hingga sekarang, Colosseum menjadi simbol kejayaan Kekaisaran Romawi dan salah satu situs sejarah paling terkenal di dunia.
+    </string>
+
+    <string name="desc_taj_mahal">
+        Taj Mahal adalah bangunan mausoleum indah yang terletak di Agra, India, dan dibangun menggunakan marmer putih yang megah. Bangunan ini didirikan oleh Kaisar Shah Jahan sebagai penghormatan dan lambang cintanya kepada sang istri, Mumtaz Mahal. Keindahan arsitektur Taj Mahal menjadikannya salah satu keajaiban dunia yang sangat dikagumi.
+    </string>
+</resources>

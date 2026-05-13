@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Global Icons</string>
+
+    <string name="label_name">Name: </string>
+    <string name="label_location">Location: </string>
+
+    <string name="btn_detail">Detail</string>
+    <string name="btn_imdb">IMDB</string>
+
+    <string name="desc_eiffel">
+        The Eiffel Tower, also known as La Tour Eiffel, is an iron tower standing about 300 meters tall in Paris, France. It was built in 1889 as the entrance arch for the World’s Fair and designed by engineer Gustave Eiffel. Today, it is one of the most famous landmarks in the world and attracts millions of visitors every year.
+    </string>
+
+    <string name="desc_kakbah">
+        The Kaaba, located at the center of Masjid al-Haram in Mecca, Saudi Arabia, is the holiest site in Islam. Muslims around the world face the Kaaba during their daily prayers. It is also the main destination for Hajj and Umrah pilgrims and holds great spiritual and historical importance.
+    </string>
+
+    <string name="desc_pisa">
+        The Leaning Tower of Pisa is a bell tower located in Pisa, Italy. It is world-famous for its unintended tilt caused by unstable ground during construction. Despite its leaning position, the tower remains standing and has become one of Italy’s most visited historical attractions.
+    </string>
+
+    <string name="desc_tembok_besar_china">
+        The Great Wall of China is a massive ancient defensive structure stretching across northern China. It was built over many centuries by different dynasties to protect the empire from invasions. Today, it is recognized as one of the greatest wonders of the world and an important cultural heritage site.
+    </string>
+
+    <string name="desc_colosseum">
+        The Colosseum is a large ancient Roman amphitheater located in Rome, Italy. It was once used for gladiator battles, public performances, and entertainment events for Roman citizens. Today, it stands as a symbol of the Roman Empire and one of the most famous historical monuments in the world.
+    </string>
+
+    <string name="desc_taj_mahal">
+        The Taj Mahal is a magnificent white marble mausoleum located in Agra, India. It was built by Emperor Shah Jahan as a symbol of love and remembrance for his wife, Mumtaz Mahal. Its stunning architecture has made it one of the most admired wonders of the world.
+    </string>
+</resources>
