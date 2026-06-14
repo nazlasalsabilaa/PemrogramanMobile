@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Explorer</string>
+    <string name="label_release">Tanggal Rilis: </string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_rating">Rating</string>
+    <string name="hint_search">Cari film...</string>
+</resources>
